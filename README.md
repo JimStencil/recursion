@@ -9,8 +9,8 @@ The programs are generally structured as methods that call one another in a hier
  can call itself either directly or indirectly through another method.
   
 Recursion examples and exercises we consider:
-* [Factorial Method](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/factorial_method/FACTORIAL_METHOD.md)
-* [Fibonacci Method](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/fibonacci_method/FIBONACCI_METHOD.md)
+* [Método Fatorial](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/factorial_method/FACTORIAL_METHOD.md)
+* [Método Fibonacci](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/fibonacci_method/FIBONACCI_METHOD.md)
 * [Find the Error in the Following Code (Exercise)](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/find_error/FIND_ERROR.md)
 * [Raising an Integer to an Integer Power (Exercise)](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/power_method/POWER_METHOD.md)
 * [Greatest Common Divisor (Exercise)](https://github.com/AlbertHambardzumyan/recursion/blob/master/src/greatest_common_divisor/GREATEST_COMMON_DIVISOR.md)
