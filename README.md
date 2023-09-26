@@ -1,8 +1,8 @@
-# recursion
-The concept of recursion.
+# Recursão
+Conceito de recursão.
 
 
-## Introduction
+## Introdução
 
 The programs are generally structured as methods that call one another in a hierarchical manner. For some problems, 
  it’s useful to have a method call itself. A method that does so is known as a *recursive method*. A recursive method 
