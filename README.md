@@ -1,5 +1,5 @@
 # Recursão
-Conceito de recursão.
+Conceito de recursão (Traduzido e adaptado por JCP).
 
 
 ## Introdução
